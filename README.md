@@ -7,7 +7,7 @@ FXServer ESX Basic Needs
 
 [INFO]
 
-This plugin add hunger and thirst status, they can be increased when eating bread or drinking water
+This plugin add hunger, thirst and drunk status, they can be increased when eating bread or drinking water
 
 [INSTALLATION]
 
@@ -23,3 +23,16 @@ git clone https://github.com/FXServer-ESX/fxserver-esx_basicneeds esx_basicneeds
 start esx_basicneeds
 ```
 # esx_basicneeds
+
+
+to avoid any problem please remove old 
+```
+bread
+wine
+water
+tequila
+vodka
+wiskhy
+beer
+```
+from your item DB.
