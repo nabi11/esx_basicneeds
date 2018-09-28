@@ -7,5 +7,5 @@ INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
 	('beer', 'Beer', 6, 0, 1),
 	('vodka', 'Vodka', 2, 0, 1),
 	('tequila', 'Tequila', 2, 0, 1),
-	('wishky', 'Wishky', 2, 0, 1)
+	('whisky', 'Whisky', 2, 0, 1)
 ;
